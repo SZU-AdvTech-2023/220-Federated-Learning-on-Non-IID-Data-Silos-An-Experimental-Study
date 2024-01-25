@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9627ce66-7c60-4cf9-b581-a80ede44eb5b" name="sweet">
+        <fileTransfer rootFolder="/home/Users/Sweet/FX_program" accessType="SFTP" host="172.31.226.24" port="22" sshConfigId="dbcc8c19-2930-4a67-8a0a-b2c52c936bfe" sshConfig="Sweet@172.31.226.24:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
